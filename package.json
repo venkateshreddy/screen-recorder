@@ -11,7 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "screen-capture-recorder": "^1.5.0",
-    "screen-size-detector": "^1.0.4",
     "screenz": "^1.0.0"
   }
 }
